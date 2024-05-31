@@ -1,41 +1,38 @@
-<H1> Hi! I'm Bjørnar Heian Langved </h1>
+# Hi, there! :wave: I'm Bjørnar, and welcome to my github profile 
 
-<p>
-I'm currently studying frontend development at <a href="https://www.noroff.no/">Noroff - School of technology and digital media </a> :man_student::computer:  
-</p>
+I am a Frontend-developer, and finished my degree at [Noroff - School of technology and digital media](https://www.noroff.no/) in 2024 :man_student::computer:
 
-<h2>Skills</h2>
+## Skills
+Some of the technologies and tools I know, and work with:
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="30" width="40" style="max-width: 100%;"> HTML <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30" width="40" style="max-width: 100%;"> CSS <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="30" width="40" style="max-width: 100%;"> Javascript <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="30" width="40" style="max-width: 100%;"> Bootstrap <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" alt="bootstrap" height="30" width="40" style="max-width: 100%;"> SASS <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="wordpress" height="30" width="40" style="max-width: 100%;"> Wordpress <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" style="max-width: 100%;"> Git <br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="figma" height="30" width="40" style="max-width: 100%;"> Figma <br>
+<div style="display: flex">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="40" width="40"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="40" width="40" > 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="40" width="40"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="40" width="40"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" alt="bootstrap" height="40" width="40"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="wordpress" height="40" width="40"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="figma" height="40" width="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" width="40"/>
+<img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt="Astro" height="40" width="40"/>
+</div>
 
+## About me
 
-<h3>Things I'm working with 🌱</h3>
-<ul>
-  <li>Learning to write even more semantic HTML, and focusing on accessibility-features</li>
-  <li>Learning Astro (a web framework)</li>
-  <li>Improving my javascript knowledge</li>
-  <li>Improving my Bootstrap knowledge</li>
-  <li>Completing the Frontend-development course on mimo.org</li>
-</ul>
+I am 31 years old, and live in Skien, Telemark in Norway. I started my programming some years back with Python, SQL and .NET while doing an engineering degree (that eventually did not work out), but I caught an interest in programming, and wanted to do more creative work, and that eventually led me down the path of Frontend-development. 
 
-<h3>Things I want to check out in the near future</h3>
-<ul>
-  <li>React</li>
-  <li>Tailwind CSS</li>
-</ul>
+### Things I'm working with 🌱
+* Trying to write even more semantic HTML, and focusing on accessibility-features
+* Learning the web-framework Astro 
+* Getting better at React
 
-<h2>Other things</h2>
+### Things I want to check out in the near future
+* Tailwind CSS
 
-Beside programming, I also enjoy things like: <br>
-:video_game: Gaming <br>
-:shallow_pan_of_food: Cooking <br>
-:running: Exercise <br>
-:guitar::musical_keyboard: Playing guitar & piano <br>
-:house::bulb: Smarthome-automation and gadgets 
+### Besides writing code
+* :video_game: Gaming
+* :shallow_pan_of_food: Cooking
+* :running: Exercise
+* :guitar::musical_keyboard: Playing guitar & piano
+* :house::bulb: Smarthome-automation and gadgets 

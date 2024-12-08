@@ -20,15 +20,11 @@ Some of the technologies and tools I know, and work with:
 
 ## About me
 
-I am 31 years old, and live in Skien, Telemark in Norway. I started my programming some years back with Python, SQL and .NET while doing an engineering degree (that eventually did not work out), but I caught an interest in programming, and wanted to do more creative work, and that eventually led me down the path of Frontend-development. 
+I am 32 years old, and live in Skien, Telemark in Norway. I started my programming some years back with Python, SQL and .NET while doing an engineering degree (that eventually did not work out), but I caught an interest in programming, and wanted to do more creative work, and that eventually led me down the path of Frontend-development. 
 
-### Things I'm working with 🌱
+### Technologies I'm learning at the moment 🌱
 * Trying to write even more semantic HTML, and focusing on accessibility-features
-* Learning the web-framework Astro 
-* Getting better at React
-
-### Things I want to check out in the near future
-* Tailwind CSS
+* Svelte.js
 
 ### Besides writing code
 * :video_game: Gaming
